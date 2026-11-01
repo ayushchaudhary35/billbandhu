@@ -69,9 +69,7 @@ Open `.env` in your text editor and add your model configuration and keys:
 ```env
 # Unified Model Adapter Configuration
 PRIMARY_LLM_PROVIDER=openai  # options: openai, anthropic, gemini
-OPENAI_API_KEY=sk-proj-your_openai_api_key_here
 GEMINI_API_KEY=your_gemini_api_key_here
-ANTHROPIC_API_KEY=your_anthropic_api_key_here
 
 # App Settings
 ENVIRONMENT=development
